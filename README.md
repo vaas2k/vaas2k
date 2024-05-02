@@ -52,7 +52,7 @@
 
 **♨️ &nbsp;DSA Analytics**
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/sk315425?theme=dark&font=Francois%20One&ext=activity" 
+<p align="center"> <img src="https://leetcard.jacoblin.cool/sk315425?theme=dark&font=Roboto%20Mono" 
          alt="Leetcode stats" height="350"/></p>
          
 ***
