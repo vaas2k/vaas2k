@@ -20,12 +20,22 @@
 ---
 
 
-**🛠 &nbsp;My Skills**
-[![Languages](https://skillicons.dev/icons?i=ts,js,c++,python,html,css)](https://skillicons.dev)
+## My Skills
+
+<div align="center">
+  
+[![Languages](https://skillicons.dev/icons?i=ts,js,cpp,python,html,css)](https://skillicons.dev)
 [![Frameworks](https://skillicons.dev/icons?i=nextks,react,redux,prisma,supabase,nodejs,express)](https://skillicons.dev)
-[![Databases](https://skillicons.dev/icons?i=mysql,postgre,mongodb,redis)](https://skillicons.dev)
+  
+</div>
+
+<div align="center">
+  
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
 [![Other](https://skillicons.dev/icons?i=nginx,bash,vercel,unix)](https://skillicons.dev)
----
+
+</div>
+
 
 
 **⚙️ &nbsp;GitHub Analytics**
