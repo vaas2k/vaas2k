@@ -27,7 +27,7 @@
 <div align="center">
   
 [![Languages](https://skillicons.dev/icons?i=ts,js,cpp,python,html,css)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=nextks,react,redux,prisma,supabase,nodejs,express)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,redux,prisma,supabase,nodejs,express)](https://skillicons.dev)
   
 </div>
 
